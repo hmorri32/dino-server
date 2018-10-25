@@ -1,5 +1,6 @@
 # Dino fact generator
 ## Dockerized Node server
+**_FROM https://github.com/biglovisa/dinojs-server_**
 
 This is a small server which provides dinosaur facts.
 
